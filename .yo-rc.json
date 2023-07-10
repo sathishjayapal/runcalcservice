@@ -1,0 +1,12 @@
+{
+  "generator-springboot": {
+    "appName": "runcalcservice",
+    "packageName": "me.sathish.runcalcservice",
+    "databaseType": "postgresql",
+    "dbMigrationTool": "none",
+    "dbMigrationFormat": "sql",
+    "features": [],
+    "buildTool": "maven",
+    "packageFolder": "me/sathish/runcalcservice"
+  }
+}
